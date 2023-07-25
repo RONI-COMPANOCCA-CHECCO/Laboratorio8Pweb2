@@ -324,9 +324,42 @@
 - Por ejemplo: En esta API se puede obtener la temperatura de Arequipa en un rango de fechas: (La versi ́on gratuita tiene un retraso de 7 d ́ıas, por tanto s ́olo mostrar ́a la temperatura en Arequipa desde el 01 de Julio hasta el 03 de Julio)
 - https://archive-api.open-meteo.com/v1/archive?latitude=-16.39889&longitude=-71.535&start_date=2023-07-01&end_date=2023-07-10&hourly=temperature_2m&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FNew_York
 
+***introduccion a nuestro proyecto***
+
+<a href="https://ibb.co/fG7sjKy"><img src="https://i.ibb.co/rfJVDLz/AC1.jpg" alt="AC1" border="0"></a>
+<a href="https://ibb.co/D9SMnLH"><img src="https://i.ibb.co/R3V6W7k/AC2.jpg" alt="AC2" border="0"></a>
+<a href="https://ibb.co/yFnXncy"><img src="https://i.ibb.co/s9v2vdw/AC3.jpg" alt="AC3" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/s591qbG/AC4.jpg" alt="AC4" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/8KKJjht/AC5.jpg" alt="AC5" border="0"></a>
+
+***CODIGOS***
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/vQt1Wgs/AC6.jpg" alt="AC6" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/db8hBjq/AC7.jpg" alt="AC7" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Qf29q8W/AC8.jpg" alt="AC8" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Qf29q8W/AC8.jpg" alt="AC8" border="0"></a>
+<a href="https://ibb.co/3SYppFD"><img src="https://i.ibb.co/kq644DR/AC10.jpg" alt="AC10" border="0"></a>
+
+***CONTINUAMOS PARA CON LOS CODIGOS Y EJECUCION***
+
+<a href="https://ibb.co/4T1Y9B3"><img src="https://i.ibb.co/ncPnZht/AC11.jpg" alt="AC11" border="0"></a>
+<a href="https://ibb.co/m5KFGQ1"><img src="https://i.ibb.co/DfFgt3s/AC12.jpg" alt="AC12" border="0"></a>
+<a href="https://ibb.co/MS4wPDP"><img src="https://i.ibb.co/kBfbqgq/AC13.jpg" alt="AC13" border="0"></a>
+<a href="https://ibb.co/3yzjbFc"><img src="https://i.ibb.co/Y7Z1Sdh/AC14.jpg" alt="AC14" border="0"></a>
+<a href="https://ibb.co/CmWbkKS"><img src="https://i.ibb.co/hLCBPFT/AC15.jpg" alt="AC15" border="0"></a>
+
+***SUBIENDO LA PARTE FINAL***
+
+<a href="https://ibb.co/xMVv82j"><img src="https://i.ibb.co/mHQsFRq/AC16.jpg" alt="AC16" border="0"></a>
+<a href="https://ibb.co/5KdSkzk"><img src="https://i.ibb.co/jJdQzxz/AC17.jpg" alt="AC17" border="0"></a>
+<a href="https://ibb.co/g4tW0Rx"><img src="https://i.ibb.co/2ZcMzkT/AC18.jpg" alt="AC18" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/F4h3931/AC19.jpg" alt="AC19" border="0"></a>
+
 ## 8. Pregunta
 
-- ¿Cu ́al fu ́e la mayor dificultad del uso de este framework?.
+- ¿Cuál fué la mayor dificultad del uso de este framework?.
+
+Una API para otros programas es una interfaz, para interactuar con su programa sin tener acceso directo. En resumen, una biblioteca es como un complemento, el  framework es el esqueleto y la API la parte orientada hacia la capa visual para interactuar con ella. La mayor dificultada para usar este framework, es el tiempo de aprendizaje, por que no es muy sencillo familiarizarnos con el, y sus versión siempre son inestables.
 
 ## 9. Entregables
 
