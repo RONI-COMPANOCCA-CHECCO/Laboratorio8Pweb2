@@ -291,6 +291,25 @@
 - https://www.django-rest-framework.org/tutorial/quickstart/
 - Para consumir el web-service puede usar el cliente SOAP UI Community: https://www.soapui.org/downloads/soapui/
 
+#
+
+<a href="https://ibb.co/DzPxscc"><img src="https://i.ibb.co/wBZ93GG/ABA1.jpg" alt="ABA1" border="0"></a>
+<a href="https://ibb.co/M8k2L1s"><img src="https://i.ibb.co/yhFfJkX/ABA2.jpg" alt="ABA2" border="0"></a>
+<a href="https://ibb.co/WFXYZvx"><img src="https://i.ibb.co/GkDbyQx/ABA3.jpg" alt="ABA3" border="0"></a>
+<a href="https://ibb.co/GMwsPJB"><img src="https://i.ibb.co/JpLxkd0/ABA4.jpg" alt="ABA4" border="0"></a>
+
+***CODIGO***
+
+<a href="https://ibb.co/KGR8C3n"><img src="https://i.ibb.co/N3QGwHR/ABA6.jpg" alt="ABA6" border="0"></a>
+
+***RESULTADO***
+
+<a href="https://ibb.co/Jc9Pz4T"><img src="https://i.ibb.co/XWqTzgP/ABA5.jpg" alt="ABA5" border="0"></a>
+
+***COMMIT PARA SUBIR EL TUTORIAL***
+
+<a href="https://ibb.co/BKQMb4y"><img src="https://i.ibb.co/prMFcWf/ABA7.jpg" alt="ABA7" border="0"></a>
+
 ## 7. Tarea
 
 - En sus grupos de trabajo correspondientes. Elabore un servicio web que tenga un CRUD con el uso de este framework.
